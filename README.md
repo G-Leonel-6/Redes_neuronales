@@ -1,0 +1,1 @@
+En este repositorio se guardaran los trabajos prácticos desarrollados en la materia de redes neuronales de la facultad de ingenieria de la uba, aqui se dejara registrado mi avance a lo largo de la materia
